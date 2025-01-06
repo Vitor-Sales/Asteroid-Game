@@ -11,10 +11,10 @@ The most basic of a functioning asteroid game to show ability with:
 I did this course following instructions of two channels:
 
 [ChrisCourses](https://www.youtube.com/@ChrisCourses/videos "ChrisCourses YouTube Channel")
+<br>
 [NetNinja](https://www.youtube.com/@NetNinja "NetNinja YouTube Channel")
 
 Link for first class:
-<a src="https://www.youtube.com/@ChrisCourses/videos">Asteroid Game Lesson 1</a>
 [Asteroid Game - Lesson 1](https://www.youtube.com/@ChrisCourses/videos "Asteroid Game -Lesson 1")
 
 <hr>
